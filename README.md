@@ -34,8 +34,11 @@ Stack includes:
 
 ## Demo
 
-Run locally:
+Run locally:  http://localhost:8501
 ## Demo Interface
 
 ![CX Assistant](assets/demo_ui.png)
 
+## Demo Architecture
+
+![CX Assistant](assets/architecture.png)
