@@ -35,5 +35,7 @@ Stack includes:
 ## Demo
 
 Run locally:
+## Demo Interface
 
+![CX Assistant](assets/demo_ui.png)
 
