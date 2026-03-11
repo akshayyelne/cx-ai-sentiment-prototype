@@ -1,0 +1,13 @@
+**Key Insights**  
+1. **Overall Positive Tilt:** 4/6 (≈ 67 %) of interactions are positive, pushing the average sentiment score to +0.13 – a modest but clear upward trend.  
+2. **Limited Volume, High Impact:** With only six data points, each record represents ≈ 17 % of the weekly view, meaning any single outlier (e.g., the lone negative) can disproportionately sway perception.  
+3. **Neutral Gap:** The single neutral entry suggests that most customers are forming strong opinions (positive or negative) rather than remaining indifferent, indicating high engagement intensity.
+
+**Risks**  
+1. **Outlier Sensitivity:** The low sample size makes the sentiment metric vulnerable to spikes from isolated negative experiences, which could trigger unwarranted alarm or mask emerging issues.  
+2. **Blind Spots in Feedback:** Absence of granular context (e.g., product area, channel) limits the ability to pinpoint root causes of the negative sentiment, risking mis‑directed remediation efforts.
+
+**Strategic Recommendations**  
+1. **Scale Data Capture:** Expand the sentiment collection window (e.g., to 2‑4 weeks) or increase touchpoints (post‑purchase surveys, in‑app prompts) to achieve a statistically robust sample size.  
+2. **Root‑Cause Drill‑Down:** Tag each sentiment entry with product, service, and channel attributes; run quick root‑cause analyses on the negative and neutral cases to surface specific pain points.  
+3. **Proactive Positive Reinforcement:** Leverage the strong positive majority by amplifying success stories (testimonials, case studies) and encouraging satisfied customers to share feedback publicly, thereby reinforcing brand equity and buffering against isolated negatives.
