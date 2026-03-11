@@ -34,7 +34,7 @@ Stack includes:
 
 ## Demo
 
-Run locally:  http://localhost:8501
+Run locally:  https://cx-ai-sentiment-prototype-mrwxd4cbaqwoquhuwdoipa.streamlit.app/
 ## Demo Interface
 
 ![CX Assistant](assets/demo_ui.png)
